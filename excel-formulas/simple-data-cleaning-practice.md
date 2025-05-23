@@ -20,16 +20,16 @@
 
 ## **🔧 STEP 1: SPLIT BY SPACES (Text-to-Columns)**
 
-### **1️⃣ Separate Data Using Text-to-Columns**
+### **1️⃣ Separate Data Using Text-to-Columns** (Convert wizard🧙‍♂️)
 **(When everything is pasted into one cell, but needs to be split into others.)**
 
 **Manual Method:**
 1. Select cell A1 (with your pasted data)
 2. Go to: **Data → Text to Columns → Delimited → Next** 
 3. Check **"Space"** as delimiter → Finish
-4. Your data is now split across columns (A1:H1) 😎
+4. Your data is now split across columns (A1:H1) 
 
-(Convert wizard) 🧙‍♂️
+😎
 
 **What happens:**  
 Excel separates your long text into individual cells wherever spaces occur.   
@@ -44,7 +44,7 @@ Excel separates your long text into individual cells wherever spaces occur.
 
 ---
 ## **2️⃣ STEP 2: Extract ONLY HTTPS URLs**
-*(Using FILTER magic)* ✨
+*(Using FILTER magic)* ☕✨
 
  Now lets click in __cell A2__ and paste the formula above:  
 
@@ -73,7 +73,7 @@ https://site1.com | https://site2.com | https://site3.com|
 ---
 
 ## **3️⃣ STEP 3: Flip Results with TRANSPOSE to vertical column ↕️** 
-*(TRANSPOSE is gold!)*
+*(TRANSPOSE is gold!)* 🏅🪙
 
 Lets part, click in cell __A3__  and paste the above formula:
 
@@ -101,13 +101,13 @@ Converts horizontal ranges to vertical (or vice versa) ↕️
 ```
 Original Text
 │
-├─ Text-to-Columns (Split by space)
+├─ Text-to-Columns (Split by space)🧙‍♂️
 │  → {junk data} | https://site1.com | more junk | etc...
 │
-├─ FILTER(LEFT;5 = "https")
+├─ FILTER(LEFT;5 = "https") ☕
 │  → https://site1.com | https://site2.com | https://site3.com
 │
-└─ TRANSPOSE
+└─ TRANSPOSE 🪙
    ↓
    https://site1.com
    https://site2.com
