@@ -90,5 +90,6 @@ MIT License – see [LICENSE](LICENSE) for details.
 
 Thiago Maria:   
 
-A security information professional focused on simplifying workflows using VBA, Python, and strong Excel skills in enterprise environments.  
-
+A security information professional focused on simplifying workflows using VBA, Python, and strong Excel skills in enterprise environments.    
+🤵🏽[LinkedIn/thiago-cequeira-99202239](https://www.linkedin.com/in/thiago-cequeira-99202239/) \
+🤗[huggingface.co/ThiSecur](https://huggingface.co/ThiSecur)
