@@ -1,6 +1,6 @@
 # Excel VBA Codes for Data Cleaning and Analysis
 
-Here you can find 30 VBA macros to help with your data cleaning, filtering, and analysis tasks across four reference tables. Here's my approach:
+Here you can find VBA macros to help with your data cleaning, filtering, and analysis tasks across four reference tables. Here's my approach:
 
 ## 1. Reference Tables Creation
 
