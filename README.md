@@ -24,7 +24,7 @@ This project demonstrates:
 - **Word**: Template-based document generation tools
     - [Under Construction - Updated June 22, 2025](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/tree/main/VBA/Word)
 - **Outlook**: Automation of Emails for Security Information, Audits, Safety and Compliance
-   - [40+ Outlook VBA Automation](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/tree/main/VBA/Outlook)
+   - [29 Outlook VBA Scripts for Automation](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/tree/main/VBA/Outlook)
 
 > [!TIP]  
 > All VBA scripts are files ready to import into the VBA editor.     
