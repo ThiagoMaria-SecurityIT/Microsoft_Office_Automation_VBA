@@ -1,6 +1,6 @@
 
 
-# Office Automation Suite  
+# Microsoft Office Automation VBA  
 
 💼 A professional collection of tools demonstrating automation capabilities across Microsoft Office applications using both **VBA** and **Python**. This repo also includes examples of advanced **Excel formulas** to showcase data manipulation skills without macros.  
 
