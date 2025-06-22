@@ -1,8 +1,12 @@
 ## Excel VBA Automation Examples
 
-📂 This folder contains **VBA macros** designed to automate common tasks in **Microsoft Excel**, such as data cleaning, transformation, and report generation.
+📂 This folder contains **VBA macros** designed to automate common tasks in **Microsoft Excel**, such as data cleaning, transformation, and report generation.  
 
-Also included is an **example_table** used across all macros to demonstrate how these scripts interact with structured datasets.
+Also included is an **example_table** used across all macros to demonstrate how these scripts interact with structured datasets.  
+
+[Start Here: Click me](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/blob/main/VBA/Excel/Data%20Cleaning%20and%20Analysis.md)     
+
+[<img src="https://github.com/user-attachments/assets/ea8dff13-ed1c-4e4e-ac8b-3843594df22d" width="70%" height="70%">](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/blob/main/VBA/Excel/Data%20Cleaning%20and%20Analysis.md)  
 
 ---
 
