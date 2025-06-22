@@ -193,7 +193,7 @@ Sub FruitSummaryStatistics()
 End Sub
 ```
 
-### Employee Data Macros (7 macros)
+### Employee Data Macros (6 macros)
 
 ```vba
 ' 11. Filter active employees only
