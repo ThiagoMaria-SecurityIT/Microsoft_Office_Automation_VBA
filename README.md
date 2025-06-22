@@ -5,13 +5,12 @@
 >  This repo is under construction - Last Update: June 22, 2025.  
 > Some features are not 100% done - Come back July 20, 2025, for all macros showcase.
 
-💼 A professional collection of tools demonstrating automation capabilities across Microsoft Office applications using both **VBA** and **Python**. This repo also includes examples of advanced **Excel formulas** to showcase data manipulation skills without macros.  
+💼 A professional collection of VBA macros demonstrating automation capabilities across Microsoft Office applications.  
 
 This project demonstrates:  
-- Legacy system integration via **VBA**  
-- Modern scripting with **Python**  
+- Legacy system integration via **VBA**    
 - Strong understanding of **Excel functions and reporting**  
-- Transition from UI-driven automation to backend scripting  
+- Transition from Excel formulas (Intermediate Office skills) to VBA scripts (Advanced Office skills) 
 
 ---
 
@@ -22,22 +21,14 @@ This project demonstrates:
 - **Excel**: Useful macros for data transformation and automation  
 - **Word**: Template-based document generation tools
 - **Outlook**: Automation of Emails for Security Information, Audits, Safety and Compliance
-  
 
-> All VBA scripts are files ready to import into the VBA editor.  
-
----
-
-### 🐍 Python Automation  
-- **PowerPoint**: Scripted presentation creation using `python-pptx`  
-- **Excel**: Report automation using `openpyxl` and `pandas`  
-- **Word**: Document generation with `python-docx`  
-  
-> Each script is standalone and can be extended into larger automation pipelines.  
+> [!TIP]  
+> All VBA scripts are files ready to import into the VBA editor.     
+> Each script is standalone and can be extended into larger automation pipelines.    
 
 ---
 
-### 📊 Excel Formulas  
+### 📊 Excel Formulas - 🚧 Under Construction -  Last Update: June 22, 2025.
 A dedicated folder containing practical use cases of **advanced Excel formulas**, including:  
 - Lookup functions (`INDEX`, `MATCH`, `XLOOKUP`)  
 - Conditional logic (`IF`, `IFS`, `SWITCH`)  
