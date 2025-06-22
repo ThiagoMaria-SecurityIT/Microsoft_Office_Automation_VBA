@@ -25,6 +25,7 @@ This repository contains a collection of VBA scripts to automate various tasks i
 6. [License](#license)
 7. [Support](#support)
 8. [Macros](#macros)
+9. [Macros for Security, Compliance and Audits](#outlook-vba-macros-for-security-compliance-and-audits)
 
 ## Features
 - Automate repetitive Outlook tasks
@@ -120,13 +121,12 @@ This project is licensed under the MIT License - see the [LICENSE.md](https://gi
 
 For questions or issues:
 - Open an issue on GitHub
-- Email: [your email]
-- LinkedIn: [your LinkedIn profile]
+- LinkedIn: https://www.linkedin.com/in/thiago-cequeira-99202239/
 
 ---
 
 *Last Updated: June 22, 2025*  
-*Tested with Outlook (Classic) 2021*
+*Tested with Outlook (Classic) 2021 - Developer is not available in Outlook 365 Desktop app*
 
 ## Macros
 
