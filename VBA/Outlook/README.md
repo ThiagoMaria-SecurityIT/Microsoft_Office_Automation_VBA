@@ -1,12 +1,134 @@
-# Outlook VBA Macros for Productivity and Safety
+# Outlook VBA Automation Scripts
 
-Here's a collection of Outlook VBA macros, including safety confirmation system and many other productivity tools for daily office routines:
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018–present%29.svg" width="15%" height="15%">   
+This repository contains a collection of VBA scripts to automate various tasks in Microsoft Outlook, improving productivity and workflow efficiency.   
 
+---
 >[!Note]
->```The Developer tab isn't available in the new Outlook for Windows```  
+>```The Developer tab isn't available in the new Outlook for Windows (Outlook Office 365 for Desktop)```  
 >```Use Outlook Classic to enable Developer for macros```   
-![image](https://github.com/user-attachments/assets/8ba400cc-82e0-4aa0-82db-7a28a8fd3ca6)
+><img src="https://github.com/user-attachments/assets/8ba400cc-82e0-4aa0-82db-7a28a8fd3ca6"  width="50%" height="50%">   
 
+# Outlook VBA Automation Scripts
+
+## Table of Contents
+1. [Features](#features)
+2. [Script Categories](#script-categories)
+   - [Email Automation](#email-automation)
+   - [Calendar Management](#calendar-management)
+   - [Contact Management](#contact-management)
+   - [Task Automation](#task-automation)
+   - [Utility Functions](#utility-functions)
+3. [Installation](#installation)
+4. [Usage](#usage)
+5. [Contributing](#contributing)
+6. [License](#license)
+7. [Support](#support)
+8. [Macros](#macros)
+
+## Features
+- Automate repetitive Outlook tasks
+- Enhance email management workflows
+- Streamline calendar operations
+- Improve contact organization
+- Customizable solutions for various business needs  
+--- 
+🚧 File Links is Under Construction - Links may not work - Come back in June 30, 2025  
+## Script Categories  
+
+### Email Automation  
+| Script Name | Description | File Link |
+|------------|-------------|----------|
+| Auto-Responder | Automatic replies based on specific criteria | [AutoResponder.bas](AutoResponder.bas) |
+| Email Categorizer | Automatically categorizes incoming emails | [EmailCategorizer.bas](EmailCategorizer.bas) |
+| Bulk Email Processor | Processes multiple emails simultaneously | [BulkEmailProcessor.bas](BulkEmailProcessor.bas) |
+
+### Calendar Management
+| Script Name | Description | File Link |
+|------------|-------------|----------|
+| Meeting Scheduler | Automates meeting scheduling | [MeetingScheduler.bas](MeetingScheduler.bas) |
+| Calendar Cleanup | Removes old or duplicate calendar items | [CalendarCleanup.bas](CalendarCleanup.bas) |
+
+### Contact Management
+| Script Name | Description | File Link |
+|------------|-------------|----------|
+| Contact Sync | Synchronizes contacts with external sources | [ContactSync.bas](ContactSync.bas) |
+| Group Manager | Manages contact groups efficiently | [GroupManager.bas](GroupManager.bas) |
+
+### Task Automation
+| Script Name | Description | File Link |
+|------------|-------------|----------|
+| Task Reminder | Enhanced reminder system for tasks | [TaskReminder.bas](TaskReminder.bas) |
+| Priority Sorter | Automatically prioritizes tasks | [PrioritySorter.bas](PrioritySorter.bas) |
+
+### Utility Functions
+| Script Name | Description | File Link |
+|------------|-------------|----------|
+| Signature Manager | Manages email signatures | [SignatureManager.bas](SignatureManager.bas) |
+| Backup Tool | Creates backups of Outlook data | [BackupTool.bas](BackupTool.bas) |
+
+## Installation
+
+1. **Enable Developer Tab**:
+   - File → Options → Customize Ribbon
+   - Check "Developer" in the right column
+   - Click OK
+
+2. **Access VBA Editor**:
+   - Press `Alt+F11` or click Developer → Visual Basic
+
+3. **Import Scripts**:
+   - In VBA Editor: File → Import File
+   - Select the .bas files from this repository
+
+4. **Enable Macros**:
+   - File → Options → Trust Center → Trust Center Settings
+   - Macro Settings → Enable all macros (for development)
+
+## Usage
+
+1. **Running Scripts**:
+   - Most scripts can be run directly from the VBA editor (F5)
+   - Some include custom ribbon buttons (see script-specific instructions)
+
+2. **Customization**:
+   - Open the script in VBA Editor
+   - Modify constants at the top of each script as needed
+   - Save changes
+
+3. **Scheduled Automation**:
+   - Use Outlook's built-in VBA event handlers (Application_Startup, etc.)
+   - Or set up Windows Task Scheduler to run macros at specific times
+
+## Contributing
+
+We welcome contributions! Please follow these guidelines:
+
+1. Fork the repository
+2. Create a new branch for your feature (`git checkout -b feature/AmazingFeature`)
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+Please ensure your code follows existing style conventions and includes appropriate comments.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/blob/main/LICENSE) file for details.
+
+## Support
+
+For questions or issues:
+- Open an issue on GitHub
+- Email: [your email]
+- LinkedIn: [your LinkedIn profile]
+
+---
+
+*Last Updated: June 22, 2025*  
+*Tested with Outlook (Classic) 2021*
+
+## Macros
 
 ## Safety & Emergency Macros (5)
 
