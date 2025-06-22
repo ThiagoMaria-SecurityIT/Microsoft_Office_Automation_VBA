@@ -17,10 +17,14 @@ This project demonstrates:
 ## 🧰 What You'll Find  
 
 ### 🖥️ VBA Automation  
-- **PowerPoint**: A dynamic presentation generator with UserForm input  
-- **Excel**: Useful macros for data transformation and automation  
+- **PowerPoint**: A dynamic presentation generator with UserForm input
+    - [PowerPoint VBA](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/tree/main/VBA/PowerPoint) 
+- **Excel**: Useful macros for data transformation and automation
+    - [Excel VBA](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/tree/main/VBA/Excel)
 - **Word**: Template-based document generation tools
+    - [Under Construction - Updated June 22, 2025](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/tree/main/VBA/Word)
 - **Outlook**: Automation of Emails for Security Information, Audits, Safety and Compliance
+   - [40+ Outlook VBA Automation](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/tree/main/VBA/Outlook)
 
 > [!TIP]  
 > All VBA scripts are files ready to import into the VBA editor.     
