@@ -11,8 +11,8 @@ This repository contains a collection of VBA scripts to automate various tasks i
 
 # Outlook VBA Automation Scripts
 
-## Table of Contents
-1. [Features](#features)
+## Table of Contents  
+1. [Features](#features)  
 2. [Script Categories](#script-categories)
    - [Email Automation](#email-automation)
    - [Calendar Management](#calendar-management)
@@ -25,7 +25,36 @@ This repository contains a collection of VBA scripts to automate various tasks i
 6. [License](#license)
 7. [Support](#support)
 8. [Macros](#macros)
+   - 1 [Safety Emergency Macros](#safety--emergency-macros-5)
+   - 2 [Email Management Macros](#email-management-macros-9)
+   - 3 [Security & Compliance Macros](#outlook-vba-macros-for-security-compliance-and-audits)
 9. [Macros for Security, Compliance and Audits](#outlook-vba-macros-for-security-compliance-and-audits)
+   - 1 [Security Awareness Email Reminder](#1-security-awareness-email-reminder)
+   - 2 [Data Classification Labeling](#2-data-classification-labeling)
+   - 3 [Compliance Attachment Checker](#3-compliance-attachment-checker)
+   - 4 [Security Incident Reporting](#4-security-incident-reporting)
+   - 5 [Backup Important Emails](#5-backup-important-emails)
+   - 6 [Password Change Reminder](#6-password-change-reminder)
+   - 7 [Audit Trail Generator](#7-audit-trail-generator)
+   - 8 [Secure Email Expiration](#8-secure-email-expiration)
+   - 9 [Compliance Checklist Verification](#9-compliance-checklist-verification)
+   - 10 [Secure Email Recipient Verification](#10-secure-email-recipient-verification)
+   - 11 [Security Policy Acknowledgment Tracker](#11-security-policy-acknowledgment-tracker)
+   - 12 [Automatic Email Encryption](#12-automatic-email-encryption)
+   - 13 [Security Training Reminder](#13-security-training-reminder)
+   - 14 [Phishing Test Simulator](#14-phishing-test-simulation)
+   - 15 [Secure File Transfer Notification](#15-secure-file-transfer-notification)
+   - 16 [Access Review Task Generator](#16-access-review-task-generator)
+   - 17 [Secure Meeting Request](17-secure-meeting-request)
+   - 18 [Security Bulletin Distribution](#18-security-bulletin-distribution)
+   - 19 [Data Retention Cleanup](#19-data-retention-cleanup)
+   - 20 [Secure Contact Verification](#20-secure-contact-verification)
+   - 21 [Secure Note Creator](#21-secure-note-creator)
+   - 22 [Security Exception Request](#22-security-exception-request)
+   - 23 [Secure Calendar Review](#23-secure-calendar-review)
+   - 24 [Secure Email Template](#24-secure-email-template)
+   - 25 [Security Log Export](#25-security-log-export)
+   - 26 [Secure Document Request](#26-secure-document-request)
 
 ## Features
 - Automate repetitive Outlook tasks
@@ -34,7 +63,9 @@ This repository contains a collection of VBA scripts to automate various tasks i
 - Improve contact organization
 - Customizable solutions for various business needs  
 --- 
-🚧 File Links is Under Construction - Links may not work - Come back in June 30, 2025  
+> [!IMPORTANT]
+> 🚧 File Links is Under Construction - Links may not work - Come back in June 30, 2025
+
 ## Script Categories  
 
 ### Email Automation  
