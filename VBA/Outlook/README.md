@@ -45,7 +45,7 @@ This repository contains a collection of VBA scripts to automate various tasks i
    - 14 [Phishing Test Simulator](#14-phishing-test-simulation)
    - 15 [Secure File Transfer Notification](#15-secure-file-transfer-notification)
    - 16 [Access Review Task Generator](#16-access-review-task-generator)
-   - 17 [Secure Meeting Request](17-secure-meeting-request)
+   - 17 [Secure Meeting Request](#17-secure-meeting-request)
    - 18 [Security Bulletin Distribution](#18-security-bulletin-distribution)
    - 19 [Data Retention Cleanup](#19-data-retention-cleanup)
    - 20 [Secure Contact Verification](#20-secure-contact-verification)
