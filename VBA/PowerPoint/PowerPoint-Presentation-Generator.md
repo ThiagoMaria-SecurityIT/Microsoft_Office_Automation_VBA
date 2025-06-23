@@ -49,8 +49,8 @@ Slides Order:
    | **CommandButton** | `cmdCancel` | Closes the form |
 
 3. **Paste the Code**:  
-   - Double-click the **UserForm** → Paste the **UserForm code**.  
-   - Insert a **Module** (`Insert → Module`) → Paste the **Standard Module code**.  
+   - Double-click the **UserForm1** → Paste the **[UserForm Code](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/blob/main/VBA/PowerPoint/UserForm-Code.vba)**.  
+   - Insert a **Module** (`Insert → Module`) → Paste the **[Standard Module Code](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/blob/main/VBA/PowerPoint/Module-Code.vba)**.  
 
 ### **Step 3: Run the Macro**  
 1. **Save as Macro-Enabled Presentation** (`File → Save As → .pptm`).  
@@ -88,7 +88,7 @@ Slides Order:
 
 ## **📥 Download VBA Scripts/Code**  
 🔗 **[UserForm Code](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/blob/main/VBA/PowerPoint/UserForm-Code.vba)**  
-🔗 **[Module Code](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/blob/main/VBA/PowerPoint/Module-Code.vba)**  
+🔗 **[Standard Module Code](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/blob/main/VBA/PowerPoint/Module-Code.vba)**  
 
 ---
 
