@@ -87,8 +87,8 @@ Slides Order:
 ---
 
 ## **📥 Download VBA Scripts/Code**  
-🔗 **[UserForm Code](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/tree/main/VBA/PowerPoint/UserForm-Code)**  
-🔗 **[Module Code](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/tree/main/VBA/PowerPoint/Module-Code)**  
+🔗 **[UserForm Code](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/blob/main/VBA/PowerPoint/UserForm-Code.vba)**  
+🔗 **[Module Code](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/blob/main/VBA/PowerPoint/Module-Code.vba)**  
  
 
 ---
