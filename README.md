@@ -1,9 +1,6 @@
 
 
 # Microsoft Office Automation VBA    
-> 🚧 Under Construction  
->  This repo is under construction - Last Update: June 22, 2025.  
-> Some features are not 100% done - Come back September 30, 2025, for all macros showcase (scroll down and maybe you can find a lot of macros).  
 
 💼 A professional collection of VBA macros demonstrating automation capabilities across Microsoft Office applications.  
 
@@ -22,7 +19,7 @@ This project demonstrates:
 - **Excel**: Useful macros for data transformation and automation
     - [Excel VBA](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/tree/main/VBA/Excel)
 - **Word**: Template-based document generation tools
-    - [Under Construction - Updated June 22, 2025](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/tree/main/VBA/Word)
+    - [Word VBA](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/tree/main/VBA/Word)
 - **Outlook**: Automation of Emails for Security Information, Audits, Safety and Compliance
    - [29 Outlook VBA Scripts for Automation](https://github.com/ThiagoMaria-SecurityIT/Microsoft_Office_Automation_VBA/tree/main/VBA/Outlook)
 
@@ -60,9 +57,9 @@ Office-Automation-Suite/
 │   ├── PowerPoint/
 │   │   └── Big Form PPT automation
 │   ├── Excel/
-│   │   └── Excel macro files will be here
+│   │   └── Excel macros 
 │   └── Word/
-│   │   └──  Word macro files will be here
+│   │   └──  Word macros 
 │   └──  Outlook/
 │       └──  VBA macros for Outlook
 ├── Excel-formulas/
