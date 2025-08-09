@@ -3,7 +3,7 @@
 # Microsoft Office Automation VBA    
 > 🚧 Under Construction  
 >  This repo is under construction - Last Update: June 22, 2025.  
-> Some features are not 100% done - Come back July 20, 2025, for all macros showcase.
+> Some features are not 100% done - Come back September 30, 2025, for all macros showcase (scroll down and maybe you can find a lot of macros).  
 
 💼 A professional collection of VBA macros demonstrating automation capabilities across Microsoft Office applications.  
 
